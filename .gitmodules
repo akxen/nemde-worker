@@ -1,0 +1,3 @@
+[submodule "apps/nemde"]
+	path = apps/nemde
+	url = https://github.com/akxen/nemde
